@@ -1,0 +1,2 @@
+#nexus container 
+docker container run -d -p 8081:8081 -p 1001:1001 --name nexus sonatype/nexus3
